@@ -1,2 +1,2 @@
 ## Projeto LP - Studio Melly 
-https://lp-studio-melly-m6irsgfiu-brbmirandas-projects.vercel.app/
+Hospedagem: https://lp-studio-melly.vercel.app/
