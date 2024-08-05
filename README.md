@@ -1,2 +1,2 @@
-## Projeto: Langing Page - Studio Melly 
+## Projeto: Landing Page - Studio Melly 
 Hospedagem: https://lp-studio-melly.vercel.app/
