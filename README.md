@@ -1,2 +1,2 @@
 ## Projeto: Landing Page - Studio Melly 
-Hospedagem: https://lp-studio-melly.vercel.app/
+Hospedagem: https://studiomelly.shop/
